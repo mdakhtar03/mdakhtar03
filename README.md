@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus 
 - Building scalable MERN applications  
 - Strengthening DSA problem-solving  
 - Learning LLD and DevOps fundamentals  
