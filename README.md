@@ -18,7 +18,7 @@
 - Strengthening DSA problem-solving  
 - Learning LLD and DevOps fundamentals  
 
----
+---   
 ## ⚡ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,6 +52,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 - LinkedIn: https://www.linkedin.com/in/mdakhtar03
 - Email: mdakhtarlog@gmail.com
+- 
