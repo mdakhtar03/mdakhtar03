@@ -70,6 +70,7 @@
 - LinkedIn: https://www.linkedin.com/in/mdakhtar03
 - Email: mdakhtarlog@gmail.com
 --- 
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/mdakhtar03/mdakhtar03/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Md+Akhtar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects" />
+</p>
+---
