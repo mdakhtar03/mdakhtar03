@@ -73,4 +73,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Md+Akhtar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects" />
 </p>
----
