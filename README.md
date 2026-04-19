@@ -37,8 +37,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ---
-## 🌐 Platform
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mdlog/)
+
+## 🧠 DSA & Coding Platform
+
+<p align="center">
+  <a href="https://leetcode.com/u/mdlog/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mdlog?theme=dark&font=Karma&ext=contest" />
+</p>
 ---
 ## 📊 GitHub Stats
 <p align="center">
