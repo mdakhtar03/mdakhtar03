@@ -68,14 +68,15 @@
 
 ## 📫 Connect With Me  
 
+## 📫 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mdakhtar03">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=mdakhtarlog@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
 </p>
+
+- 📧 Email: mdakhtarlog@gmail.com
 
 --- 
 <p align="center">
