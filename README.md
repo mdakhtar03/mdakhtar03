@@ -67,8 +67,15 @@
 ---
 
 ## 📫 Connect With Me  
-- LinkedIn: https://www.linkedin.com/in/mdakhtar03
-- Email: mdakhtarlog@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdakhtar03">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mdakhtarlog@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 --- 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Md+Akhtar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects" />
