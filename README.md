@@ -4,7 +4,7 @@
 🎓 B.Tech CSE Student (3rd Year)  
 💡 Passionate about building scalable web applications and solving real-world problems  
 
----
+-----
 
 ## 🔥 What I'm Doing
 - 💻 Building Full Stack Projects  
