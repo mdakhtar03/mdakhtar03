@@ -40,7 +40,7 @@
 
 ## 🧠 DSA & Coding Platform
 
-<p align="center">
+<p align="center" >
   <a href="https://leetcode.com/u/mdakhtar03/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
