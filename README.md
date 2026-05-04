@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img.src="https://leetcard.jacoblin.cool/mdakhtar03?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/mdakhtar03?theme=dark&font=Karma&ext=contest" />
 </p>
 
 
