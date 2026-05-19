@@ -3,12 +3,12 @@
 🚀 Full Stack Developer (MERN)  
 🎓 B.Tech CSE Student (3rd Year)  
 💡 Passionate about building scalable web applications and solving real-world problems  
-
+ 
 -----
 
 ## 🔥 What I'm Doing
 - 💻 Building Full Stack Projects  
-- 🧠 Practicing DSA with C++
+- 🧠 Practicing DSA with C++ 
 - 🤝 Exploring Open Source  
 
 ---
@@ -30,7 +30,7 @@
   
 
 ---
-## 🛠️ Tools
+## 🛠️ Tools 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
@@ -43,13 +43,12 @@
 <p align="center" >
   <a href="https://leetcode.com/u/mdakhtar03/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  </a> 
 </p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mdakhtar03?theme=dark&font=Karma&ext=contest" />
 </p>
-
 
 ---
 ## 📊 GitHub Stats
@@ -58,7 +57,7 @@
   <img src="https://streak-stats.demolab.com?user=mdakhtar03&theme=radical" />
 </p>
 
----
+----
 
 ## 📌 Featured Projects
 - 🔗 [study-notion-edtech](https://github.com/mdakhtar03/study-notion-edtech) → Full Stack EdTech Platform  
